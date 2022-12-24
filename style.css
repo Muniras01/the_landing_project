@@ -24,10 +24,7 @@
     
   }
   
-  /* Set core root defaults */
-  html:focus-within {
-    scroll-behavior: auto;
-  }
+
   
   a {
     text-decoration-skip-ink: revert;
